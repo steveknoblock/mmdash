@@ -4,6 +4,6 @@
     "license": "MIT",
     "type": "library",
     "autoload": {
-        "psr-4": {"Steveknoblock\\": "mmdash/"}
+        "psr-4": {"Steveknoblock\\Mmdash\\": ""}
     }
 }

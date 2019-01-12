@@ -20,7 +20,7 @@
 	 * @license		http://www.gnu.org/licenses/lgpl.html
 	 */
 
-namespace Steveknoblock\Mmdash;
+namespace Steveknoblock;
 
 	/**
 	 * Readme

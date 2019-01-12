@@ -1,9 +1,9 @@
 {
     "name": "steveknoblock/mmdash",
     "description": "Cleans special characters from text.",
-    "license": "MIT",
+    "license": "LGPL or MIT",
     "type": "library",
     "autoload": {
-        "psr-4": { "Steveknoblock\\Mmdash\\": "" }
+        "psr-4": { "\\Steveknoblock\\Mmdash\\": "" }
     }
 }
